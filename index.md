@@ -34,7 +34,7 @@ I am working on an iOS application through which clinicians can control the robo
 
 During this project, I will be working with Sandhya Jayaraman, who is currently a Ph.D. student in Dr. Riek's lab as well as with two other undergraduate students.
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](files/finalreport)
 
 ## My Blog
 
