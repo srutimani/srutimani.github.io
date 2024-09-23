@@ -28,9 +28,9 @@ Dr. Riek currently serves as HRI Editor for the IEEE Conference on Robotics and 
 
 ## About My Project
 
-This summer, I am working on an HRI project that aims to contextualize and develop clinically-assistive robots alongside Emergency Department (ED) clinicians. This clinically-assistive robot is designed to support clinicians in the ED space by performing non-critical tasks. 
+This summer, I am working on an HRI project that aims to contextualize and develop clinically-assistive robots alongside clinicians. This clinically-assistive robot is designed to support clinicians in the hospital space by performing non-critical tasks. 
 
-I am working on an iOS application through which clinicians can control the robot. I am implementing the backend of the application using the Swift programming language and will evaluate and test it with real ED clinicians. The application will allow clinicians to request various tasks for the robot to perform. Some of these tasks include checking vitals, bringing supplies, and starting a telemedical visit. 
+I am working on an iOS application through which clinicians can control the robot. I am implementing the backend of the application using the Swift programming language and will evaluate and test it with real clinicians. The application will allow clinicians to request various tasks for the robot to perform.
 
 During this project, I will be working with Sandhya Jayaraman, who is currently a Ph.D. student in Dr. Riek's lab as well as with two other undergraduate students.
 
