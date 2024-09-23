@@ -32,7 +32,7 @@ This summer, I am working on an HRI project that aims to contextualize and devel
 
 I am working on an iOS application through which clinicians can control the robot. I am implementing the backend of the application using the Swift programming language and will evaluate and test it with real clinicians. The application will allow clinicians to request various tasks for the robot to perform.
 
-During this project, I will be working with Sandhya Jayaraman, who is currently a Ph.D. student in Dr. Riek's lab as well as with two other undergraduate students.
+During this project, I will be working with a Ph.D. student in Dr. Riek's lab as well as with two other undergraduate students.
 
 [My Final Report](files/finalreport)
 
